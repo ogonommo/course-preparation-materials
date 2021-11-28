@@ -42,6 +42,8 @@ Leetcode is a great resourse for testing and building on your practical knowledg
 
 You will find different problems are tagged properly, and you can find the full list [here](https://leetcode.com/problemset/all/). You can also select specific subset of problems, i.e. [array tasks](https://leetcode.com/tag/array/). Start with *arrays*, *strings*, and *math*. Prefer **easy** tasks, choose **medium** only if you cannot live without pain.
 
-<br> HackerRank
+<br>
+
+## HackerRank
 
 [HackerRank](https://www.hackerrank.com) is another great resource for practicing problem solving, although directed to more experienced users and programmers looking for a job or just a good challenge.
