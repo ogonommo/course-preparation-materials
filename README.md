@@ -36,6 +36,12 @@ Optional (if you feel comfortable with the core concepts studing in the JavaScri
 
 <br>
 
+## freeCodeCamp
+
+A great resource of smaller tasks: [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+
+<br>
+
 ## [Leetcode](https://leetcode.com/)
 
 Leetcode is a great resourse for testing and building on your practical knowledge on the core JS language, problem solving, and learn some Data Structures and Algorithms concepts.
