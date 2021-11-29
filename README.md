@@ -38,7 +38,7 @@ Optional (if you feel comfortable with the core concepts studing in the JavaScri
 
 ## freeCodeCamp
 
-A great resource of smaller tasks: [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+A great collection of smaller tasks: [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
 
 <br>
 
